@@ -17,6 +17,12 @@ I am a researcher in ecology and my work revolves mostly around birds and their 
 
 ✒️ I love how languages work, and I believe that the written word holds immense power.
 
+***
+![](https://raw.githubusercontent.com/rikudoukarthik/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/rikudoukarthik/github-stats/master/generated/languages.svg#gh-light-mode-only)
+
+###### *(HTML has been excluded here to avoid skewed results)*
+
 <!--
 **rikudoukarthik/rikudoukarthik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
