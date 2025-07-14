@@ -2,8 +2,8 @@
 
 I am a researcher in ecology and my work revolves mostly around birds and their relationship with the environment. Beyond profession, birdwatching occupies a prominent role in my life and is much more than a hobby. I am also passionate about poetry.
 
-[![Website](https://img.shields.io/website?label=Website&up_color=teal&up_message=Online&url=https%3A%2F%2Fkartrick.rbind.io%2F)](https://kartrick.rbind.io/)
-[![Google Scholar](https://img.shields.io/badge/Scholar-gray?style=flat&logo=GoogleScholar)](https://scholar.google.co.in/citations?user=rGqtkNgAAAAJ&hl=en)
+[![Website](https://img.shields.io/website?label=Website&up_color=teal&up_message=Online&url=https%3A%2F%2Fkartrick.com%2F)](https://kartrick.com/)
+[![Google Scholar](https://img.shields.io/badge/Scholar-gray?style=flat&logo=GoogleScholar)](https://scholar.google.com/citations?user=rGqtkNgAAAAJ&hl=en)
 [![ORCiD](https://img.shields.io/badge/ORCiD-gray?style=flat&logo=ORCID)](https://orcid.org/0000-0003-2863-5879)
 [![Email](https://img.shields.io/badge/Email-rikudoukarthik@gmail.com-yellowgreen?style=flat)](mailto:rikudoukarthik@gmail.com)
 
